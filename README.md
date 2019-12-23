@@ -17,5 +17,5 @@ The Objective of this Project is to make Campus Library smarter and enhancing Us
 - Xcode Editor is used for deploying the app for IOS.
 - Placenote Cloud is used as Database for saving the maps.
 
-This project is specifically built for IOS devices as th placenote SDK works only on IOS. 
+This project is specifically built for IOS devices as th placenote SDK works only on IOS and the app is built on MacBook. 
 
