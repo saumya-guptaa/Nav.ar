@@ -2,7 +2,7 @@
 
 The Objective of this Project is to make Campus Library smarter and enhancing User Experience inside Campus Building by implementing Navigation System Inside them Using Augmented Reality.The path to the destination is displayed with the help of augmented signs and symbols displayed in real time.
 
-#TOOLS USED
+### TOOLS USED
 
 1. Unity
 2. Placenote SDK
@@ -10,7 +10,7 @@ The Objective of this Project is to make Campus Library smarter and enhancing Us
 4. Placenote Cloud Database
 
 
-#FEATURES
+### FEATURES
 
 - Surface tracking and detection is done using Placenote SDK.
 - Unity is used to build the app.
